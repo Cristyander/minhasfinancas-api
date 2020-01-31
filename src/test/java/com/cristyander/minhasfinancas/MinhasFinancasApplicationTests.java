@@ -1,4 +1,4 @@
-package com.cristyander.minhasFinancas;
+package com.cristyander.minhasfinancas;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

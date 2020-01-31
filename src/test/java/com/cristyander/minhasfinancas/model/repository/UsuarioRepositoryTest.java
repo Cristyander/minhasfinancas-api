@@ -1,4 +1,4 @@
-package com.cristyander.minhasFinancas.model.repository;
+package com.cristyander.minhasfinancas.model.repository;
 
 import java.util.Optional;
 
@@ -14,7 +14,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.cristyander.minhasFinancas.model.entity.Usuario;
+import com.cristyander.minhasfinancas.model.entity.Usuario;
 
 @RunWith(SpringRunner.class)
 @ActiveProfiles("test")

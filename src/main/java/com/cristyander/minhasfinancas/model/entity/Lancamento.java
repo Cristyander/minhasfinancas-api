@@ -1,4 +1,4 @@
-package com.cristyander.minhasFinancas.model.entity;
+package com.cristyander.minhasfinancas.model.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
@@ -17,8 +17,8 @@ import javax.persistence.Table;
 
 import org.springframework.data.jpa.convert.threeten.Jsr310JpaConverters;
 
-import com.cristyander.minhasFinancas.model.enums.StatusLancamento;
-import com.cristyander.minhasFinancas.model.enums.TipoLancamento;
+import com.cristyander.minhasfinancas.model.enums.StatusLancamento;
+import com.cristyander.minhasfinancas.model.enums.TipoLancamento;
 
 import lombok.Builder;
 import lombok.Data;

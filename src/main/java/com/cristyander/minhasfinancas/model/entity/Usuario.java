@@ -1,4 +1,4 @@
-package com.cristyander.minhasFinancas.model.entity;
+package com.cristyander.minhasfinancas.model.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

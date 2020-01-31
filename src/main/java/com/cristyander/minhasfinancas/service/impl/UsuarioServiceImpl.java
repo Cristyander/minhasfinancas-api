@@ -1,4 +1,4 @@
-package com.cristyander.minhasFinancas.service.impl;
+package com.cristyander.minhasfinancas.service.impl;
 
 import java.util.Optional;
 
@@ -6,11 +6,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.cristyander.minhasFinancas.exception.ErroAutenticacao;
-import com.cristyander.minhasFinancas.exception.RegraNegocioException;
-import com.cristyander.minhasFinancas.model.entity.Usuario;
-import com.cristyander.minhasFinancas.model.repository.UsuarioRepository;
-import com.cristyander.minhasFinancas.service.UsuarioService;
+import com.cristyander.minhasfinancas.exception.ErroAutenticacao;
+import com.cristyander.minhasfinancas.exception.RegraNegocioException;
+import com.cristyander.minhasfinancas.model.entity.Usuario;
+import com.cristyander.minhasfinancas.model.repository.UsuarioRepository;
+import com.cristyander.minhasfinancas.service.UsuarioService;
 
 @Service
 public class UsuarioServiceImpl implements UsuarioService {

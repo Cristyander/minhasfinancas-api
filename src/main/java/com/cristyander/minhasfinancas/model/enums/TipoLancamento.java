@@ -1,4 +1,4 @@
-package com.cristyander.minhasFinancas.model.enums;
+package com.cristyander.minhasfinancas.model.enums;
 
 public enum TipoLancamento {
 

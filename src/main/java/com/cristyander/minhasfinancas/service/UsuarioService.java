@@ -1,6 +1,6 @@
-package com.cristyander.minhasFinancas.service;
+package com.cristyander.minhasfinancas.service;
 
-import com.cristyander.minhasFinancas.model.entity.Usuario;
+import com.cristyander.minhasfinancas.model.entity.Usuario;
 
 public interface UsuarioService {
 
